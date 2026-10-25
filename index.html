@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Vicepresidente al Día</title>
+<meta name="description" content="Seguimiento ciudadano a todo lo que hace el vicepresidente de Colombia, José Manuel Restrepo: noticias, fotos, videos, compromisos y agenda. Software por Vibras Positivas HM.">
+<meta name="theme-color" content="#0b1530">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta property="og:title" content="Vicepresidente al Día">
+<meta property="og:description" content="Todo lo que hace el vicepresidente José Manuel Restrepo, actualizado cada 30 minutos.">
+<meta property="og:image" content="https://imagenes.portafolio.co/files/image_1200_600/files/fp/uploads/2026/10/19/6ad648a90bab4.r_d.688-196-0.jpeg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#070d1f; --bg2:#0b1530; --card:#111d3d; --card2:#16264f;
+  --ink:#f3f5fb; --mute:#9fb0d6; --gold:#ffd23f; --red:#ff3b4e; --blue:#2f7bff; --green:#29d17d;
+  --r:18px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif;line-height:1.45;overflow-x:hidden}
+a{color:inherit}
+img{display:block;max-width:100%}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+
+/* Barra superior */
+.top{position:sticky;top:0;z-index:50;background:rgba(7,13,31,.86);backdrop-filter:blur(12px);border-bottom:1px solid #1d2b55}
+.top .wrap{display:flex;align-items:center;gap:10px;height:58px}
+.brand{font-family:"Archivo Black",sans-serif;font-size:17px;letter-spacing:.3px;white-space:nowrap}
+.brand span{color:var(--gold)}
+.live{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:800;color:var(--red);text-transform:uppercase;letter-spacing:1px}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--red);animation:pulse 1.2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,59,78,.7)}100%{box-shadow:0 0 0 10px rgba(255,59,78,0)}}
+.btn{border:0;cursor:pointer;font:800 13px Inter,sans-serif;padding:10px 14px;border-radius:999px;background:var(--gold);color:#0b1530;transition:transform .15s}
+.btn:active{transform:scale(.95)}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid #2a3d73}
+.top .btn{margin-left:auto}
+.live{white-space:nowrap}
+@media(max-width:420px){.brand{font-size:14px}.top .btn{padding:9px 12px;font-size:12px}.live{font-size:10px}}
+.btn.spin{animation:wob .8s linear infinite}
+@keyframes wob{50%{opacity:.5}}
+
+/* Cinta de última hora */
+.ticker{background:var(--red);overflow:hidden;white-space:nowrap;font-weight:800;font-size:13px}
+.ticker .track{display:inline-block;padding:8px 0;animation:tick 60s linear infinite}
+.ticker .track a{text-decoration:none;margin-right:44px}
+.ticker .track a b{background:#0b1530;color:var(--gold);padding:2px 8px;border-radius:6px;margin-right:8px;font-size:11px}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* Portada con fotos reales */
+.hero{position:relative;height:min(78vh,620px);overflow:hidden}
+.hero .slide{position:absolute;inset:0;opacity:0;transition:opacity 1.2s}
+.hero .slide.on{opacity:1}
+.hero .slide img{width:100%;height:100%;object-fit:cover;animation:kb 14s ease-in-out infinite alternate}
+@keyframes kb{from{transform:scale(1.02)}to{transform:scale(1.14) translate(-2%,-2%)}}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,13,31,.15) 0%,rgba(7,13,31,.35) 45%,var(--bg) 100%)}
+.hero .txt{position:absolute;left:0;right:0;bottom:22px;z-index:2}
+.kicker{display:inline-block;background:var(--gold);color:#0b1530;font-weight:800;font-size:12px;padding:4px 10px;border-radius:6px;text-transform:uppercase;letter-spacing:1px}
+.hero h1{font-family:"Archivo Black",sans-serif;font-size:clamp(30px,7vw,64px);line-height:1;margin:10px 0 8px;text-shadow:0 4px 30px rgba(0,0,0,.6)}
+.hero p{max-width:640px;color:#dbe3f7;font-size:15px}
+.hero .credit{position:absolute;right:12px;top:12px;z-index:3;font-size:10px;color:#cfd8ef;background:rgba(0,0,0,.45);padding:3px 8px;border-radius:6px}
+.dots{display:flex;gap:6px;margin-top:14px}
+.dots i{width:22px;height:4px;border-radius:4px;background:#ffffff40;cursor:pointer}
+.dots i.on{background:var(--gold)}
+
+/* Contadores */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:-6px 0 8px;position:relative;z-index:3}
+.stat{background:linear-gradient(160deg,var(--card2),var(--card));border:1px solid #22356b;border-radius:var(--r);padding:14px}
+.stat .n{font-family:"Archivo Black",sans-serif;font-size:clamp(24px,5vw,38px);color:var(--gold);line-height:1}
+.stat .l{font-size:12px;color:var(--mute);margin-top:6px}
+@media(max-width:700px){.stats{grid-template-columns:repeat(2,1fr)}}
+
+/* Navegación por secciones */
+.tabs{position:sticky;top:58px;z-index:40;background:var(--bg);padding:10px 0;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tabs a{display:inline-block;text-decoration:none;font-weight:800;font-size:13px;padding:9px 14px;margin-right:6px;border-radius:999px;background:var(--card);color:var(--mute);transition:.2s}
+.tabs a.on{background:var(--ink);color:#0b1530}
+
+section{padding:30px 0 10px}
+h2{font-family:"Archivo Black",sans-serif;font-size:clamp(22px,4.5vw,32px);line-height:1.1;margin-bottom:6px}
+h2 em{font-style:normal;color:var(--gold)}
+.sub{color:var(--mute);font-size:14px;margin-bottom:16px}
+
+/* Hoy */
+.hoy-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.hoy-date{font-size:13px;color:var(--gold);font-weight:800}
+.feed{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.card{position:relative;background:var(--card);border-radius:var(--r);overflow:hidden;border:1px solid #1d2d5c;text-decoration:none;display:flex;flex-direction:column;transition:transform .25s,border-color .25s;animation:rise .5s both}
+.card:hover{transform:translateY(-4px);border-color:var(--gold)}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}}
+.card .ph{aspect-ratio:16/9;background:#0e1838;overflow:hidden}
+.card .ph img{width:100%;height:100%;object-fit:cover;transition:transform .6s}
+.card:hover .ph img{transform:scale(1.07)}
+.card .bd{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.card .meta{display:flex;gap:8px;align-items:center;font-size:11px;color:var(--mute);font-weight:600}
+.tag{background:var(--blue);color:#fff;padding:2px 7px;border-radius:5px;font-weight:800;font-size:10px;text-transform:uppercase;letter-spacing:.5px}
+.tag.new{background:var(--red)}
+.card h3{font-size:15.5px;line-height:1.3}
+.card p{font-size:13px;color:#c3cde8}
+.empty{color:var(--mute);font-size:14px;padding:18px;background:var(--card);border-radius:var(--r)}
+
+/* Búsqueda */
+.search{display:flex;gap:8px;margin-bottom:14px}
+.search input{flex:1;background:var(--card);border:1px solid #2a3d73;color:var(--ink);border-radius:999px;padding:12px 16px;font:600 14px Inter,sans-serif}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.chip{font-size:12px;font-weight:800;padding:7px 12px;border-radius:999px;background:var(--card2);color:var(--ink);border:1px solid #2a3d73;cursor:pointer}
+.chip.on{background:var(--gold);color:#0b1530;border-color:var(--gold)}
+
+/* Misiones */
+.mis{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.mi{position:relative;border-radius:var(--r);overflow:hidden;min-height:200px;display:flex;align-items:flex-end;padding:14px;background:#0e1838}
+.mi img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.45;transition:opacity .4s,transform .8s}
+.mi:hover img{opacity:.65;transform:scale(1.06)}
+.mi:before{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(7,13,31,.95),rgba(7,13,31,.1))}
+.mi div{position:relative}
+.mi .k{font-family:"Archivo Black",sans-serif;color:var(--gold);font-size:30px;line-height:1}
+.mi h3{font-size:16px;margin:4px 0}
+.mi p{font-size:12.5px;color:#cbd5ee}
+
+/* Compromisos */
+.goals{display:grid;gap:10px}
+.goal{background:var(--card);border-radius:var(--r);padding:14px;border-left:5px solid var(--blue);display:grid;grid-template-columns:1fr auto;gap:6px 12px;align-items:center}
+.goal h3{font-size:15px}
+.goal p{grid-column:1/-1;font-size:13px;color:#c3cde8}
+.goal .src{grid-column:1/-1;font-size:11px;color:var(--mute)}
+.goal .src a{color:var(--gold)}
+.st{font-size:11px;font-weight:800;padding:4px 10px;border-radius:999px;white-space:nowrap}
+.st.anun{background:#2f7bff33;color:#8db6ff}
+.st.curso{background:#ffd23f26;color:var(--gold)}
+.st.prog{background:#29d17d26;color:var(--green)}
+.goal.anun{border-color:var(--blue)}.goal.curso{border-color:var(--gold)}.goal.prog{border-color:var(--green)}
+.bar{grid-column:1/-1;height:6px;background:#0b1530;border-radius:6px;overflow:hidden}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--blue),var(--gold));border-radius:6px;transition:width 1.5s}
+
+/* Cuenta regresiva */
+.count{position:relative;border-radius:var(--r);overflow:hidden;padding:22px;background:#0e1838;margin-top:14px}
+.count img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.3}
+.count>div{position:relative}
+.cd{display:flex;gap:10px;margin-top:10px}
+.cd div{background:rgba(7,13,31,.75);border:1px solid #2a3d73;border-radius:12px;padding:10px;min-width:64px;text-align:center}
+.cd b{display:block;font-family:"Archivo Black",sans-serif;font-size:26px;color:var(--gold)}
+.cd span{font-size:11px;color:var(--mute)}
+
+/* Línea de tiempo */
+.tl{position:relative;padding-left:22px}
+.tl:before{content:"";position:absolute;left:6px;top:4px;bottom:4px;width:3px;background:linear-gradient(var(--gold),var(--blue));border-radius:3px}
+.ti{position:relative;margin-bottom:16px;background:var(--card);border-radius:14px;overflow:hidden;display:grid;grid-template-columns:110px 1fr;text-decoration:none}
+.ti:before{content:"";position:absolute;left:-22px;top:16px;width:15px;height:15px;border-radius:50%;background:var(--gold);border:3px solid var(--bg)}
+.ti img{width:110px;height:100%;min-height:90px;object-fit:cover}
+.ti .bd{padding:10px 12px}
+.ti .d{font-size:11px;font-weight:800;color:var(--gold)}
+.ti h3{font-size:14px;line-height:1.3;margin-top:3px}
+.ti .s{font-size:11px;color:var(--mute);margin-top:4px}
+
+/* Fotos y videos */
+.gal{columns:3 220px;column-gap:10px}
+.gal a{display:block;margin-bottom:10px;border-radius:14px;overflow:hidden;position:relative;break-inside:avoid}
+.gal img{width:100%;transition:transform .5s}
+.gal a:hover img{transform:scale(1.05)}
+.gal span{position:absolute;left:0;right:0;bottom:0;padding:20px 10px 8px;font-size:11px;background:linear-gradient(0deg,rgba(0,0,0,.85),transparent)}
+.vids{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.vid{background:var(--card);border-radius:var(--r);overflow:hidden}
+.vid .fr{position:relative;aspect-ratio:16/9;background:#000;cursor:pointer}
+.vid .fr img{width:100%;height:100%;object-fit:cover;opacity:.85}
+.vid .fr .play{position:absolute;inset:0;margin:auto;width:66px;height:66px;border-radius:50%;background:var(--red);box-shadow:0 0 0 8px rgba(255,59,78,.25)}
+.vid .fr .play:after{content:"";position:absolute;left:26px;top:20px;border-left:20px solid #fff;border-top:13px solid transparent;border-bottom:13px solid transparent}
+.vid iframe{width:100%;height:100%;border:0;position:absolute;inset:0}
+.vid .bd{padding:10px 12px;font-size:13.5px;font-weight:600}
+.vid .bd small{display:block;color:var(--mute);font-weight:600;margin-top:4px}
+.xposts{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;margin-top:14px}
+
+/* Perfil */
+.perfil{display:grid;grid-template-columns:280px 1fr;gap:18px;align-items:start}
+.perfil img{border-radius:var(--r);width:100%;aspect-ratio:4/5;object-fit:cover}
+.perfil ul{list-style:none;display:grid;gap:8px}
+.perfil li{background:var(--card);border-radius:12px;padding:10px 12px;font-size:14px}
+.perfil li b{color:var(--gold)}
+@media(max-width:700px){.perfil{grid-template-columns:1fr}.perfil img{aspect-ratio:16/10}}
+
+.note{font-size:12px;color:var(--mute);background:var(--card);border-radius:12px;padding:12px;margin-top:14px}
+footer{padding:36px 0 60px;color:var(--mute);font-size:12.5px;text-align:center}
+footer b{color:var(--gold)}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%) translateY(120px);background:var(--gold);color:#0b1530;font-weight:800;font-size:13px;padding:10px 16px;border-radius:999px;transition:transform .35s;z-index:99}
+.toast.on{transform:translateX(-50%) translateY(0)}
+.more{display:block;margin:14px auto 0}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand">VICEPRESIDENTE <span>AL DÍA</span></div>
+    <span class="live"><i></i>En vivo</span>
+    <button class="btn" id="btnRefresh">Actualizar</button>
+  </div>
+</header>
+
+<div class="ticker"><div class="track" id="ticker"></div></div>
+
+<div class="hero" id="hero">
+  <span class="credit" id="heroCredit"></span>
+  <div class="txt"><div class="wrap">
+    <span class="kicker">Seguimiento ciudadano</span>
+    <h1>José Manuel Restrepo</h1>
+    <p>Vicepresidente de la República de Colombia (2026–2030). Todo lo que hace, dice y promete, con fotos y videos reales de la prensa y sus redes.</p>
+    <div class="dots" id="dots"></div>
+  </div></div>
+</div>
+
+<div class="wrap">
+  <div class="stats">
+    <div class="stat"><div class="n" id="sDias">0</div><div class="l">días en el cargo (desde 7 ago 2026)</div></div>
+    <div class="stat"><div class="n" id="sNot">0</div><div class="l">noticias registradas</div></div>
+    <div class="stat"><div class="n" id="sHoy">0</div><div class="l">noticias de hoy</div></div>
+    <div class="stat"><div class="n" id="sVid">0</div><div class="l">videos encontrados</div></div>
+  </div>
+
+  <nav class="tabs" id="tabs">
+    <a href="#hoy" class="on">Hoy</a>
+    <a href="#buscar">Buscar en vivo</a>
+    <a href="#misiones">Sus 5 misiones</a>
+    <a href="#compromisos">Compromisos</a>
+    <a href="#videos">Videos</a>
+    <a href="#fotos">Fotos</a>
+    <a href="#linea">Línea de tiempo</a>
+    <a href="#perfil">Quién es</a>
+  </nav>
+
+  <section id="hoy">
+    <div class="hoy-head"><h2>Lo de <em>hoy</em></h2><span class="hoy-date" id="hoyFecha"></span></div>
+    <p class="sub" id="hoyInfo">Buscando lo último del vicepresidente…</p>
+    <div class="feed" id="hoyFeed"></div>
+  </section>
+
+  <section id="buscar">
+    <h2>Buscar <em>en vivo</em></h2>
+    <p class="sub">Cada vez que entras, la app busca en la red lo más reciente. También puedes buscar un tema.</p>
+    <form class="search" id="fBuscar">
+      <input id="q" placeholder="Ej: Ley de Rescate, Milagro Week, Urabá…" autocomplete="off">
+      <button class="btn">Buscar</button>
+    </form>
+    <div class="chips" id="chips"></div>
+    <div class="feed" id="liveFeed"></div>
+  </section>
+
+  <section id="misiones">
+    <h2>Sus <em>5 misiones</em></h2>
+    <p class="sub">Funciones que le asignó el presidente Abelardo de la Espriella con el Decreto 1373 del 9 de septiembre de 2026 (Misión Crecer).</p>
+    <div class="mis" id="mis"></div>
+  </section>
+
+  <section id="compromisos">
+    <h2>Lo que <em>prometió</em> y cómo va</h2>
+    <p class="sub">Metas y anuncios públicos del vicepresidente. La barra muestra qué tan cerca está de cumplirse según lo verificable hoy.</p>
+    <div class="goals" id="goals"></div>
+    <div class="count">
+      <img src="https://www.infobae.com/resizer/v2/HSYEYTXW4BASVB6VA24PAFQFAQ.JPG?auth=0301915c73beb1c6a6f8c607b251557ad73189d58367fc86cc9fea18fbd3dc05&smart=true&width=350&height=233&quality=85" referrerpolicy="no-referrer" alt="">
+      <div>
+        <span class="kicker">Próximo gran evento</span>
+        <h3 style="font-size:20px;margin-top:8px">Milagro Week en Nueva York · 16 al 19 de noviembre</h3>
+        <div class="cd" id="cd"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="videos">
+    <h2>Videos <em>reales</em></h2>
+    <p class="sub">Entrevistas, discursos y recorridos. El robot los busca en YouTube cada 30 minutos.</p>
+    <div class="vids" id="vids"></div>
+    <div class="xposts" id="xposts"></div>
+  </section>
+
+  <section id="fotos">
+    <h2>Fotos <em>de su gestión</em></h2>
+    <p class="sub">Tomadas de las noticias. Toca una foto para ver la nota original.</p>
+    <div class="gal" id="gal"></div>
+  </section>
+
+  <section id="linea">
+    <h2>Línea de <em>tiempo</em></h2>
+    <p class="sub">Desde que fue elegido hasta hoy.</p>
+    <div class="tl" id="tl"></div>
+    <button class="btn ghost more" id="btnMore">Ver más</button>
+  </section>
+
+  <section id="perfil">
+    <h2>¿Quién <em>es</em>?</h2>
+    <div class="perfil">
+      <img src="https://imagenes.portafolio.co/files/main_image_800_600/uploads/2026/07/01/6a4515f463c59.jpeg" referrerpolicy="no-referrer" alt="José Manuel Restrepo">
+      <ul>
+        <li><b>Nombre:</b> José Manuel Restrepo Abondano. Nació en Bogotá el 31 de agosto de 1970.</li>
+        <li><b>Cargo:</b> Vicepresidente de la República desde el 7 de agosto de 2026, fórmula de Abelardo de la Espriella. Elegido en segunda vuelta el 21 de junio de 2026.</li>
+        <li><b>Estudios:</b> Economista y especialista en Finanzas de la Universidad del Rosario, maestría en Economía de la London School of Economics y doctorado de la Universidad de Bath.</li>
+        <li><b>Trayectoria:</b> Exministro en el gobierno de Iván Duque (Comercio y Hacienda), rector de la Universidad del Rosario y de la Universidad EIA (2022–2026).</li>
+        <li><b>Redes:</b> <a href="https://x.com/jrestrp" target="_blank" rel="noopener">X @jrestrp</a> · <a href="https://www.instagram.com/jmrestrepoa/" target="_blank" rel="noopener">Instagram @jmrestrepoa</a> · <a href="https://www.facebook.com/search/top?q=Vicepresidencia%20de%20la%20Rep%C3%BAblica%20de%20Colombia" target="_blank" rel="noopener">Vicepresidencia en Facebook</a></li>
+      </ul>
+    </div>
+    <p class="note">App ciudadana independiente, sin vínculo con el Gobierno. Recoge lo que publican los medios y las cuentas oficiales; las cifras que aparecen son las que dio el vicepresidente o el medio citado, y cada tarjeta lleva el enlace a la fuente original para verificar. Las fotos y videos pertenecen a sus autores.</p>
+  </section>
+</div>
+
+<footer>
+  Software por <b>Vibras Positivas HM</b> · Caucasia, Antioquia · 311 770 0431<br>
+  <span id="upd"></span>
+</footer>
+<div class="toast" id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
