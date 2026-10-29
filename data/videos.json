@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-10-29T14:00:47.214Z",
+  "actualizado": "2026-10-29T19:46:31.553Z",
   "items": [
     {
       "id": "HppmQJbtJfc",
       "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
       "canal": "RED MÁS Noticias",
       "fecha": "hace 1 m"
+    },
+    {
+      "id": "DPG7vBuAcR0",
+      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
+      "canal": "Radio Nacional de Colombia",
+      "fecha": ""
     },
     {
       "id": "sAbO5f9NoD0",
@@ -32,12 +38,6 @@
       "fecha": "hace 3 m"
     },
     {
-      "id": "OOxTGXb5u7c",
-      "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
-      "canal": "LA TOBÓN SHOW",
-      "fecha": "hace 4 m"
-    },
-    {
       "id": "JC2H3V5Wb0s",
       "titulo": "¿Qué puede hacer? - Jose Manuel Restrepo Vp Abelardo de la Espriella Mar 11 #velezporlamanana",
       "canal": "Luis Carlos Vélez",
@@ -48,6 +48,12 @@
       "titulo": "Así transcurrió la reunión entre José Manuel Restrepo y Marco Rubio| EL TIEMPO",
       "canal": "EL TIEMPO",
       "fecha": "hace 3 m"
+    },
+    {
+      "id": "l1xMuxYj-fI",
+      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
+      "canal": "Canal Institucional",
+      "fecha": ""
     },
     {
       "id": "1WTpsF9fplc",
@@ -62,6 +68,12 @@
       "fecha": "hace 3 m"
     },
     {
+      "id": "4jiWWMjz8d4",
+      "titulo": "José Manuel Restrepo se reunió con António Guterres en Nueva York durante la Asamblea de la ONU",
+      "canal": "Blu Radio",
+      "fecha": "hace 1 m"
+    },
+    {
       "id": "B9gJ4BFS9-E",
       "titulo": "De La Espriella presenta a José Manuel Restrepo, su vicepresidente, y lo compara con Marco Rubio",
       "canal": "DE LA ESPRIELLA STYLE",
@@ -72,6 +84,12 @@
       "titulo": "Hablemos Temprano con José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella",
       "canal": "Noticias Telemedellín",
       "fecha": "hace 7 m"
+    },
+    {
+      "id": "AbPWoiRdWyY",
+      "titulo": "José Manuel Restrepo - “Quien no aspira a más llegará a no ser nada\"",
+      "canal": "LA LUPA",
+      "fecha": "hace 4 m"
     },
     {
       "id": "Qh3_IprNack",
@@ -98,6 +116,72 @@
       "fecha": "hace 1 m"
     },
     {
+      "id": "PBxGzmsx2UU",
+      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
+      "canal": "El Primer Paso Podcast",
+      "fecha": "hace 2 m"
+    },
+    {
+      "id": "5DczvCcusu4",
+      "titulo": "JOSÉ MANUEL RESTREPO habló de Petro, Abelardo, las encuestas y el ‘voto silencioso’",
+      "canal": "RevistaSemana",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "OOxTGXb5u7c",
+      "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
+      "canal": "LA TOBÓN SHOW",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "BIl3Dq6_xmE",
+      "titulo": "#EnVIVO: Entrevista vicepresidente electo José Manuel Restrepo | EL TIEMPO",
+      "canal": "EL TIEMPO",
+      "fecha": "Transmitido hace 3 m"
+    },
+    {
+      "id": "9zDLXZDuXEk",
+      "titulo": "Cátedra de Vicepresidente: José Manuel Restrepo explica cómo encender los motores del empleo",
+      "canal": "Dorado Crítico",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "uiYdZL5v3Vc",
+      "titulo": "Vicepresidente electo José Manuel Restrepo presentó los pilares de la relación de EE. UU. y Colombia",
+      "canal": "Noticias Caracol",
+      "fecha": "hace 3 m"
+    },
+    {
+      "id": "B-DEdyBvGjI",
+      "titulo": "José Manuel Restrepo | Desnúdate con Eva",
+      "canal": "Desnúdate con Eva",
+      "fecha": "hace 2 a"
+    },
+    {
+      "id": "BnLsYCfQqEw",
+      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
+      "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "ITyTqOGRR70",
+      "titulo": "Según José Manuel Restrepo Aída Quilcué es la candidata fantasma",
+      "canal": "Me Vale",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "JV62LygsDds",
+      "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
+      "canal": "Desnúdate con Eva",
+      "fecha": "hace 6 m"
+    },
+    {
+      "id": "JoFgePlti4g",
+      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo, no propuso el cobro de peajes a motos",
+      "canal": "EL TIEMPO",
+      "fecha": "hace 4 m"
+    },
+    {
       "id": "WSJnF8nWbok",
       "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
       "canal": "NTN24",
@@ -110,58 +194,16 @@
       "fecha": "hace 3 m"
     },
     {
-      "id": "uiYdZL5v3Vc",
-      "titulo": "Vicepresidente electo José Manuel Restrepo presentó los pilares de la relación de EE. UU. y Colombia",
-      "canal": "Noticias Caracol",
-      "fecha": "hace 3 m"
-    },
-    {
-      "id": "PBxGzmsx2UU",
-      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
-      "canal": "El Primer Paso Podcast",
-      "fecha": "hace 2 m"
-    },
-    {
       "id": "uQpUBQbNBh0",
       "titulo": "José Manuel Restrepo: Llegó el momento de construir una Patria Milagro",
       "canal": "Kienyke",
       "fecha": "hace 4 m"
     },
     {
-      "id": "9zDLXZDuXEk",
-      "titulo": "Cátedra de Vicepresidente: José Manuel Restrepo explica cómo encender los motores del empleo",
-      "canal": "Dorado Crítico",
-      "fecha": "hace 5 m"
-    },
-    {
-      "id": "B-DEdyBvGjI",
-      "titulo": "José Manuel Restrepo | Desnúdate con Eva",
-      "canal": "Desnúdate con Eva",
-      "fecha": "hace 2 a"
-    },
-    {
-      "id": "JoFgePlti4g",
-      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo, no propuso el cobro de peajes a motos",
-      "canal": "EL TIEMPO",
-      "fecha": "hace 4 m"
-    },
-    {
-      "id": "BnLsYCfQqEw",
-      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
-    },
-    {
       "id": "zCpRU38a64A",
       "titulo": "\"Lo oía llorar de la desesperación\": El quiebre de José Manuel Restrepo al recordar a su padre",
       "canal": "Vanessa De La Torre",
       "fecha": "hace 4 m"
-    },
-    {
-      "id": "JV62LygsDds",
-      "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
-      "canal": "Desnúdate con Eva",
-      "fecha": "hace 6 m"
     },
     {
       "id": "3_lg8f2y_14",
@@ -182,24 +224,6 @@
       "fecha": "hace 1 m"
     },
     {
-      "id": "5DczvCcusu4",
-      "titulo": "JOSÉ MANUEL RESTREPO habló de Petro, Abelardo, las encuestas y el ‘voto silencioso’",
-      "canal": "RevistaSemana",
-      "fecha": "hace 5 m"
-    },
-    {
-      "id": "BIl3Dq6_xmE",
-      "titulo": "#EnVIVO: Entrevista vicepresidente electo José Manuel Restrepo | EL TIEMPO",
-      "canal": "EL TIEMPO",
-      "fecha": "Transmitido hace 3 m"
-    },
-    {
-      "id": "ITyTqOGRR70",
-      "titulo": "Según José Manuel Restrepo Aída Quilcué es la candidata fantasma",
-      "canal": "Me Vale",
-      "fecha": "hace 4 m"
-    },
-    {
       "id": "gLQL8Mz0_Rc",
       "titulo": "Protagonistas de la Patria Milagro: José Manuel Restrepo, Vicepresidente de la República de Colombia",
       "canal": "Presidencia de la República - Colombia",
@@ -210,12 +234,6 @@
       "titulo": "Perfil de José Manuel Restrepo, el vicepresidente de Abelardo de la Espriella: historia de vida",
       "canal": "Noticias Caracol",
       "fecha": "hace 2 m"
-    },
-    {
-      "id": "4jiWWMjz8d4",
-      "titulo": "José Manuel Restrepo se reunió con António Guterres en Nueva York durante la Asamblea de la ONU",
-      "canal": "Blu Radio",
-      "fecha": "hace 1 m"
     },
     {
       "id": "buILgdRvATk",
@@ -338,28 +356,10 @@
       "fecha": "hace 1 a"
     },
     {
-      "id": "AbPWoiRdWyY",
-      "titulo": "José Manuel Restrepo - “Quien no aspira a más llegará a no ser nada\"",
-      "canal": "LA LUPA",
-      "fecha": "hace 4 m"
-    },
-    {
       "id": "rAmkfsE3cx8",
       "titulo": "A Conversation With Vice President Jose Manuel Restrepo of Colombia",
       "canal": "Council on Foreign Relations",
       "fecha": "hace 3 sem."
-    },
-    {
-      "id": "sS99bd20Xik",
-      "titulo": "Vicepresidente José Manuel Restrepo dice que no van a tocar el Salario Mínimo | El Reporte Coronell",
-      "canal": "NoticiasUnoColombia",
-      "fecha": "Transmitido hace 2 sem."
-    },
-    {
-      "id": "EVW9Js-OAlw",
-      "titulo": "Lo que pocos conocían de José Manuel Restrepo fuera de la política | Lo Sé Todo, Colombia",
-      "canal": "Lo Sé Todo Colombia",
-      "fecha": "hace 4 m"
     }
   ]
 }
