@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T09:06:54.029Z",
+  "actualizado": "2026-11-01T16:15:29.654Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -38,12 +38,6 @@
       "fecha": "hace 3 m"
     },
     {
-      "id": "DPG7vBuAcR0",
-      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
-      "canal": "Radio Nacional de Colombia",
-      "fecha": "Transmitido hace 2 días"
-    },
-    {
       "id": "2kSCULlnw4Y",
       "titulo": "El vicepresidente da consejería a las parejas. José Manuel Restrepo",
       "canal": "La Opinión Cúcuta",
@@ -71,7 +65,7 @@
       "id": "nbYtWeEI9Ic",
       "titulo": "La otra faceta del vicepresidente: Restrepo revela cómo desde hace años ayuda a parejas en crisis",
       "canal": "Blu Radio",
-      "fecha": "hace 3 m"
+      "fecha": "hace 4 m"
     },
     {
       "id": "B9gJ4BFS9-E",
@@ -90,12 +84,6 @@
       "titulo": "Vicepresidente José Manuel Restrepo interviene ante Donald Trump en Nueva York | La Luciérnaga",
       "canal": "Caracol Radio",
       "fecha": "hace 1 m"
-    },
-    {
-      "id": "Qh3_IprNack",
-      "titulo": "José Manuel Restrepo se reunió con Marco Rubio.",
-      "canal": "La Silla Vacía",
-      "fecha": "hace 3 m"
     },
     {
       "id": "MPOrQhuTnxw",
@@ -120,6 +108,18 @@
       "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
       "canal": "LA TOBÓN SHOW",
       "fecha": "hace 4 m"
+    },
+    {
+      "id": "uiYdZL5v3Vc",
+      "titulo": "Vicepresidente electo José Manuel Restrepo presentó los pilares de la relación de EE. UU. y Colombia",
+      "canal": "Noticias Caracol",
+      "fecha": "hace 3 m"
+    },
+    {
+      "id": "tRlpH2Krs4I",
+      "titulo": "José Manuel Restrepo reafirma plan de fortalecer relaciones con Estados Unidos | El Espectador",
+      "canal": "El Espectador",
+      "fecha": "hace 3 m"
     },
     {
       "id": "HppmQJbtJfc",
@@ -164,16 +164,34 @@
       "fecha": "Transmitido hace 3 m"
     },
     {
-      "id": "uiYdZL5v3Vc",
-      "titulo": "Vicepresidente electo José Manuel Restrepo presentó los pilares de la relación de EE. UU. y Colombia",
-      "canal": "Noticias Caracol",
-      "fecha": "hace 3 m"
-    },
-    {
       "id": "B-DEdyBvGjI",
       "titulo": "José Manuel Restrepo | Desnúdate con Eva",
       "canal": "Desnúdate con Eva",
       "fecha": "hace 2 a"
+    },
+    {
+      "id": "fHC510Zq0NA",
+      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
+      "canal": "UNIMINUTO Radio",
+      "fecha": "Transmitido hace 7 m"
+    },
+    {
+      "id": "BnLsYCfQqEw",
+      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
+      "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "DPG7vBuAcR0",
+      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
+      "canal": "Radio Nacional de Colombia",
+      "fecha": "Transmitido hace 2 días"
+    },
+    {
+      "id": "Qh3_IprNack",
+      "titulo": "José Manuel Restrepo se reunió con Marco Rubio.",
+      "canal": "La Silla Vacía",
+      "fecha": "hace 3 m"
     },
     {
       "id": "GhWAFZVyWmQ",
@@ -212,18 +230,6 @@
       "fecha": "hace 7 m"
     },
     {
-      "id": "fHC510Zq0NA",
-      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
-      "canal": "UNIMINUTO Radio",
-      "fecha": "Transmitido hace 7 m"
-    },
-    {
-      "id": "tRlpH2Krs4I",
-      "titulo": "José Manuel Restrepo reafirma plan de fortalecer relaciones con Estados Unidos | El Espectador",
-      "canal": "El Espectador",
-      "fecha": "hace 3 m"
-    },
-    {
       "id": "gLQL8Mz0_Rc",
       "titulo": "Protagonistas de la Patria Milagro: José Manuel Restrepo, Vicepresidente de la República de Colombia",
       "canal": "Presidencia de la República - Colombia",
@@ -232,12 +238,6 @@
     {
       "id": "2fg7S0EDEL8",
       "titulo": "¿Por qué JOSE MANUEL RESTREPO y ABELARDO DE LA ESPRIELLA son el complemento perfecto?",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
-    },
-    {
-      "id": "BnLsYCfQqEw",
-      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
       "canal": "Vanessa De La Torre",
       "fecha": "hace 5 m"
     },
