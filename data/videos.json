@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T01:08:19.333Z",
+  "actualizado": "2026-11-04T07:54:22.525Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -8,16 +8,16 @@
       "fecha": "hace 5 días"
     },
     {
-      "id": "HppmQJbtJfc",
-      "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
-      "canal": "RED MÁS Noticias",
-      "fecha": "hace 1 m"
-    },
-    {
       "id": "1Jlf83miI0U",
       "titulo": "\"Uno no elige vicepresidente por identidad sexual o racial\": José Manuel Restrepo",
       "canal": "Noticias RCN",
       "fecha": "hace 5 m"
+    },
+    {
+      "id": "HppmQJbtJfc",
+      "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
+      "canal": "RED MÁS Noticias",
+      "fecha": "hace 1 m"
     },
     {
       "id": "JC2H3V5Wb0s",
@@ -32,16 +32,16 @@
       "fecha": "hace 7 m"
     },
     {
-      "id": "MPOrQhuTnxw",
-      "titulo": "\"El vicepresidente del Tigre\": Esta fue la particular charla entre Donald Trump y Restrepo",
-      "canal": "Tendencia Política",
-      "fecha": "hace 1 m"
-    },
-    {
       "id": "OOxTGXb5u7c",
       "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
       "canal": "LA TOBÓN SHOW",
       "fecha": "hace 4 m"
+    },
+    {
+      "id": "MPOrQhuTnxw",
+      "titulo": "\"El vicepresidente del Tigre\": Esta fue la particular charla entre Donald Trump y Restrepo",
+      "canal": "Tendencia Política",
+      "fecha": "hace 1 m"
     },
     {
       "id": "WSJnF8nWbok",
@@ -86,22 +86,28 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "YNuRS3ROf70",
-      "titulo": "José Manuel Restrepo, vicepresidente electo, explica prioridades que tendrá Gobierno De la Espriella",
-      "canal": "Noticias Caracol",
-      "fecha": "Transmitido hace 4 m"
-    },
-    {
       "id": "2kSCULlnw4Y",
       "titulo": "El vicepresidente da consejería a las parejas. José Manuel Restrepo",
       "canal": "La Opinión Cúcuta",
       "fecha": "hace 4 m"
     },
     {
+      "id": "YNuRS3ROf70",
+      "titulo": "José Manuel Restrepo, vicepresidente electo, explica prioridades que tendrá Gobierno De la Espriella",
+      "canal": "Noticias Caracol",
+      "fecha": "Transmitido hace 4 m"
+    },
+    {
       "id": "O4TE34kJHjo",
       "titulo": "DISCURSO COMPLETO de JOSÉ MANUEL RESTREPO ante la ASAMBLEA GENERAL de la ONU",
       "canal": "Diario AS",
       "fecha": "hace 1 m"
+    },
+    {
+      "id": "PBxGzmsx2UU",
+      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
+      "canal": "El Primer Paso Podcast",
+      "fecha": "hace 2 m"
     },
     {
       "id": "OTZ30pGG40g",
@@ -116,15 +122,15 @@
       "fecha": "hace 5 m"
     },
     {
-      "id": "PBxGzmsx2UU",
-      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
-      "canal": "El Primer Paso Podcast",
-      "fecha": "hace 2 m"
-    },
-    {
       "id": "9zDLXZDuXEk",
       "titulo": "Cátedra de Vicepresidente: José Manuel Restrepo explica cómo encender los motores del empleo",
       "canal": "Dorado Crítico",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "BnLsYCfQqEw",
+      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
+      "canal": "Vanessa De La Torre",
       "fecha": "hace 5 m"
     },
     {
@@ -134,9 +140,9 @@
       "fecha": "hace 2 a"
     },
     {
-      "id": "SwsdVK8vY2w",
-      "titulo": "Entrevista con José Manuel Restrepo, fórmula vicepresidencial del candidato Abelardo De la Espriella",
-      "canal": "EL HERALDO",
+      "id": "zCpRU38a64A",
+      "titulo": "\"Lo oía llorar de la desesperación\": El quiebre de José Manuel Restrepo al recordar a su padre",
+      "canal": "Vanessa De La Torre",
       "fecha": "hace 4 m"
     },
     {
@@ -146,16 +152,22 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "zCpRU38a64A",
-      "titulo": "\"Lo oía llorar de la desesperación\": El quiebre de José Manuel Restrepo al recordar a su padre",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 4 m"
-    },
-    {
       "id": "JV62LygsDds",
       "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
       "canal": "Desnúdate con Eva",
       "fecha": "hace 7 m"
+    },
+    {
+      "id": "CANZa6X-GQQ",
+      "titulo": "#TenerLaRazónNoEsSuficiente con Jose Manuel Restrepo",
+      "canal": "Teleantioquia",
+      "fecha": "hace 1 a"
+    },
+    {
+      "id": "SwsdVK8vY2w",
+      "titulo": "Entrevista con José Manuel Restrepo, fórmula vicepresidencial del candidato Abelardo De la Espriella",
+      "canal": "EL HERALDO",
+      "fecha": "hace 4 m"
     },
     {
       "id": "yAM23T4ut6Y",
@@ -166,12 +178,6 @@
     {
       "id": "2fg7S0EDEL8",
       "titulo": "¿Por qué JOSE MANUEL RESTREPO y ABELARDO DE LA ESPRIELLA son el complemento perfecto?",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
-    },
-    {
-      "id": "BnLsYCfQqEw",
-      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
       "canal": "Vanessa De La Torre",
       "fecha": "hace 5 m"
     },
@@ -354,12 +360,6 @@
       "titulo": "José Manuel Restrepo se reunió con António Guterres en Nueva York durante la Asamblea de la ONU",
       "canal": "Blu Radio",
       "fecha": "hace 1 m"
-    },
-    {
-      "id": "Qh3_IprNack",
-      "titulo": "José Manuel Restrepo se reunió con Marco Rubio.",
-      "canal": "La Silla Vacía",
-      "fecha": "hace 3 m"
     }
   ]
 }
