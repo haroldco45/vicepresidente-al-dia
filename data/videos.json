@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T10:35:52.441Z",
+  "actualizado": "2026-11-05T18:36:57.782Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -14,10 +14,10 @@
       "fecha": "hace 5 m"
     },
     {
-      "id": "HppmQJbtJfc",
-      "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
+      "id": "giAB_MIrGhQ",
+      "titulo": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio",
       "canal": "RED MÁS Noticias",
-      "fecha": "hace 1 m"
+      "fecha": "hace 3 m"
     },
     {
       "id": "ithkxrIYnpU",
@@ -36,6 +36,12 @@
       "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
       "canal": "LA TOBÓN SHOW",
       "fecha": "hace 4 m"
+    },
+    {
+      "id": "MPOrQhuTnxw",
+      "titulo": "\"El vicepresidente del Tigre\": Esta fue la particular charla entre Donald Trump y Restrepo",
+      "canal": "Tendencia Política",
+      "fecha": "hace 1 m"
     },
     {
       "id": "WSJnF8nWbok",
@@ -80,10 +86,16 @@
       "fecha": "hace 3 sem."
     },
     {
-      "id": "zkpUp5zBItM",
-      "titulo": "José Manuel Restrepo  nos cuenta su historia - #60AñosyContando",
-      "canal": "Universidad del Rosario",
-      "fecha": "hace 6 a"
+      "id": "GyQ3wFk6dMo",
+      "titulo": "¿Ni Trump, ni Bukele, ni Milei? JOSÉ MANUEL RESTREPO define el fenómeno ABELARDO DE LA ESPRIELLA",
+      "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "2kSCULlnw4Y",
+      "titulo": "El vicepresidente da consejería a las parejas. José Manuel Restrepo",
+      "canal": "La Opinión Cúcuta",
+      "fecha": "hace 4 m"
     },
     {
       "id": "PBxGzmsx2UU",
@@ -92,34 +104,22 @@
       "fecha": "hace 2 m"
     },
     {
-      "id": "OTZ30pGG40g",
-      "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
-      "canal": "LOS40 Colombia",
-      "fecha": "hace 4 m"
-    },
-    {
-      "id": "4405ievMvcs",
-      "titulo": "José Manuel Restrepo contó cómo fue que Abelardo De La Espriella le ofreció ser su Vicepresidente 🇨🇴",
-      "canal": "Joche Osorio",
-      "fecha": "hace 7 m"
-    },
-    {
       "id": "9zDLXZDuXEk",
       "titulo": "Cátedra de Vicepresidente: José Manuel Restrepo explica cómo encender los motores del empleo",
       "canal": "Dorado Crítico",
       "fecha": "hace 5 m"
     },
     {
+      "id": "HppmQJbtJfc",
+      "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
+      "canal": "RED MÁS Noticias",
+      "fecha": "hace 1 m"
+    },
+    {
       "id": "B-DEdyBvGjI",
       "titulo": "José Manuel Restrepo | Desnúdate con Eva",
       "canal": "Desnúdate con Eva",
       "fecha": "hace 2 a"
-    },
-    {
-      "id": "BnLsYCfQqEw",
-      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
     },
     {
       "id": "zCpRU38a64A",
@@ -134,12 +134,6 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "JV62LygsDds",
-      "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
-      "canal": "Desnúdate con Eva",
-      "fecha": "hace 7 m"
-    },
-    {
       "id": "SwsdVK8vY2w",
       "titulo": "Entrevista con José Manuel Restrepo, fórmula vicepresidencial del candidato Abelardo De la Espriella",
       "canal": "EL HERALDO",
@@ -152,10 +146,40 @@
       "fecha": "hace 5 m"
     },
     {
+      "id": "JV62LygsDds",
+      "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
+      "canal": "Desnúdate con Eva",
+      "fecha": "hace 7 m"
+    },
+    {
       "id": "nbYtWeEI9Ic",
       "titulo": "La otra faceta del vicepresidente: Restrepo revela cómo desde hace años ayuda a parejas en crisis",
       "canal": "Blu Radio",
       "fecha": "hace 4 m"
+    },
+    {
+      "id": "zkpUp5zBItM",
+      "titulo": "José Manuel Restrepo  nos cuenta su historia - #60AñosyContando",
+      "canal": "Universidad del Rosario",
+      "fecha": "hace 6 a"
+    },
+    {
+      "id": "OTZ30pGG40g",
+      "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
+      "canal": "LOS40 Colombia",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "4405ievMvcs",
+      "titulo": "José Manuel Restrepo contó cómo fue que Abelardo De La Espriella le ofreció ser su Vicepresidente 🇨🇴",
+      "canal": "Joche Osorio",
+      "fecha": "hace 7 m"
+    },
+    {
+      "id": "BnLsYCfQqEw",
+      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
+      "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
     },
     {
       "id": "2fg7S0EDEL8",
@@ -168,18 +192,6 @@
       "titulo": "DISCURSO COMPLETO de JOSÉ MANUEL RESTREPO ante la ASAMBLEA GENERAL de la ONU",
       "canal": "Diario AS",
       "fecha": "hace 1 m"
-    },
-    {
-      "id": "2kSCULlnw4Y",
-      "titulo": "El vicepresidente da consejería a las parejas. José Manuel Restrepo",
-      "canal": "La Opinión Cúcuta",
-      "fecha": "hace 4 m"
-    },
-    {
-      "id": "giAB_MIrGhQ",
-      "titulo": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio",
-      "canal": "RED MÁS Noticias",
-      "fecha": "hace 3 m"
     },
     {
       "id": "BlExglUm36Q",
@@ -204,12 +216,6 @@
       "titulo": "José Manuel Restrepo: perfil del nuevo vicepresidente de Colombia - Noticias Telemedellín",
       "canal": "Noticias Telemedellín",
       "fecha": "hace 4 m"
-    },
-    {
-      "id": "GyQ3wFk6dMo",
-      "titulo": "¿Ni Trump, ni Bukele, ni Milei? JOSÉ MANUEL RESTREPO define el fenómeno ABELARDO DE LA ESPRIELLA",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
     },
     {
       "id": "FykEGzC0ayA",
@@ -252,12 +258,6 @@
       "titulo": "¿Qué puede hacer? - Jose Manuel Restrepo Vp Abelardo de la Espriella Mar 11 #velezporlamanana",
       "canal": "Luis Carlos Vélez",
       "fecha": "hace 7 m"
-    },
-    {
-      "id": "MPOrQhuTnxw",
-      "titulo": "\"El vicepresidente del Tigre\": Esta fue la particular charla entre Donald Trump y Restrepo",
-      "canal": "Tendencia Política",
-      "fecha": "hace 1 m"
     },
     {
       "id": "YNuRS3ROf70",
