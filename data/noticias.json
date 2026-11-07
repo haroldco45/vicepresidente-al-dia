@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T20:45:45.097Z",
+  "actualizado": "2026-11-07T00:46:24.894Z",
   "items": [
     {
       "titulo": "'Por el futuro de Colombia': Vicepresidente José Manuel Restrepo destaca desde España importante inversión de Secuoya en Bogotá",
@@ -152,6 +152,15 @@
       "fecha": "2026-11-05T16:41:51.000Z",
       "fuente": "El Colombiano",
       "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "cat": "Noticia"
+    },
+    {
+      "titulo": "Colombia llama en la Cumbre Iberoamericana a abandonar discursos trasnochados y confiar en la juventud",
+      "url": "https://emisoranuevaepoca.com.co/colombia-cumbre-iberoamericana-jovenes",
+      "resumen": "El Vicepresidente Jos&#233; Manuel Restrepo pidi&#243; en Madrid dejar atr&#225;s ideolog&#237;as del pasado y present&#243; cifras de &#233;xito en seguridad y lucha contra el crimen.",
+      "fecha": "2026-11-05T16:00:00.000Z",
+      "fuente": "emisoranuevaepoca",
+      "img": "https://emisoranuevaepoca.com.co/documents/91616/340636/presentacion.jpg/c885fe6b-66c5-7660-7368-1fb1cd6b27a8?version=1.0&t=1793969478033&imagePreview=1",
       "cat": "Noticia"
     },
     {
@@ -2690,15 +2699,6 @@
       "fecha": "2026-10-24T01:59:00.000Z",
       "fuente": "El Nuevo Siglo",
       "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "cat": "Noticia"
-    },
-    {
-      "titulo": "Vicepresidente Jos&#233; Manuel Restrepo plantea un ajuste fiscal de $70 billones para el pr&#243;ximo a&#241;o",
-      "url": "https://www.elcolombiano.com/negocios/jose-manuel-restrepo-plantea-ajuste-fiscal-70-billones-presupuesto-2027-BJ42692636",
-      "resumen": "Colombia deber&#225; realizar un ajuste fiscal cercano a $70 billones en 2027 para enfrentar el deterioro de sus finanzas p&#250;blicas y recuperar espacio ...",
-      "fecha": "2026-10-24T01:15:00.000Z",
-      "fuente": "El Colombiano",
-      "img": "https://estaticos.elcolombiano.com/binrepository/1280x854/0c0/1280d720/none/11101/VHPX/vicepresidente-jose-manuel-restrepo_51964987_20261024081030.jpg",
       "cat": "Noticia"
     }
   ]
