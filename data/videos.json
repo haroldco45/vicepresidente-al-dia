@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T02:56:37.665Z",
+  "actualizado": "2026-11-11T10:40:46.233Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -20,28 +20,34 @@
       "fecha": "hace 6 m"
     },
     {
-      "id": "l1xMuxYj-fI",
-      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
-      "canal": "Canal Institucional",
-      "fecha": "Transmitido hace 12 días"
-    },
-    {
       "id": "HppmQJbtJfc",
       "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
       "canal": "RED MÁS Noticias",
       "fecha": "hace 1 m"
     },
     {
-      "id": "WSJnF8nWbok",
-      "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
-      "canal": "NTN24",
-      "fecha": "hace 3 m"
+      "id": "l1xMuxYj-fI",
+      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
+      "canal": "Canal Institucional",
+      "fecha": "Transmitido hace 12 días"
+    },
+    {
+      "id": "GhWAFZVyWmQ",
+      "titulo": "'Soy el vicepresidente del ‘tigre’: así le ha ido a Restrepo en la ONU | EL TIEMPO",
+      "canal": "EL TIEMPO",
+      "fecha": "hace 1 m"
     },
     {
       "id": "FykEGzC0ayA",
       "titulo": "\"Le paré el beso hasta que fuera mi novia\": José Manuel Restrepo | Vanessa de la Torre",
       "canal": "Vanessa De La Torre",
       "fecha": "hace 5 m"
+    },
+    {
+      "id": "WSJnF8nWbok",
+      "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
+      "canal": "NTN24",
+      "fecha": "hace 3 m"
     },
     {
       "id": "B9gJ4BFS9-E",
@@ -56,28 +62,10 @@
       "fecha": "hace 1 m"
     },
     {
-      "id": "79XBRbrR8VY",
-      "titulo": "José Manuel Restrepo habló ante Donald Trump: seguridad y democracia, en el centro de su mensaje",
-      "canal": "NotiRed360",
-      "fecha": "hace 1 m"
-    },
-    {
       "id": "OOxTGXb5u7c",
       "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
       "canal": "LA TOBÓN SHOW",
       "fecha": "hace 4 m"
-    },
-    {
-      "id": "yVY9_GRRWpc",
-      "titulo": "José Manuel Restrepo: perfil del nuevo vicepresidente de Colombia - Noticias Telemedellín",
-      "canal": "Noticias Telemedellín",
-      "fecha": "hace 4 m"
-    },
-    {
-      "id": "d1DCZSeTqw0",
-      "titulo": "José Manuel Restrepo pasó por los micrófonos de #TenerLaRazónNoEsSuficiente.",
-      "canal": "Teleantioquia",
-      "fecha": "hace 3 m"
     },
     {
       "id": "BIl3Dq6_xmE",
@@ -86,22 +74,28 @@
       "fecha": "Transmitido hace 4 m"
     },
     {
-      "id": "TZe66xuoFkA",
-      "titulo": "Su faceta más personal: José Manuel Restrepo revela cómo ayuda a salvar parejas en crisis",
-      "canal": "Acento Colombia",
-      "fecha": "hace 4 m"
+      "id": "d1DCZSeTqw0",
+      "titulo": "José Manuel Restrepo pasó por los micrófonos de #TenerLaRazónNoEsSuficiente.",
+      "canal": "Teleantioquia",
+      "fecha": "hace 3 m"
     },
     {
       "id": "QjxiQ4nodSY",
       "titulo": "El Vice José Manuel Restrepo sobre el proyecto de ley que busca establecer el día de la biblia",
       "canal": "StefyFA",
-      "fecha": "hace 11 días"
+      "fecha": "hace 12 días"
     },
     {
       "id": "w9NLZv2-ke8",
       "titulo": "Vicepresidente José Manuel Restrepo reduce 73 % el gasto mensual en personal de la Vicepresidencia.",
       "canal": "Portal de Opinión",
       "fecha": "hace 4 sem."
+    },
+    {
+      "id": "rgTcTGWuXus",
+      "titulo": "José Manuel Restrepo, nuevo VICEPRESIDENTE de Colombia",
+      "canal": "RevistaSemana",
+      "fecha": "hace 4 m"
     },
     {
       "id": "PBxGzmsx2UU",
@@ -140,21 +134,27 @@
       "fecha": "hace 2 a"
     },
     {
-      "id": "fHC510Zq0NA",
-      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
-      "canal": "UNIMINUTO Radio",
-      "fecha": "Transmitido hace 7 m"
-    },
-    {
       "id": "JV62LygsDds",
       "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
       "canal": "Desnúdate con Eva",
       "fecha": "hace 7 m"
     },
     {
+      "id": "TZe66xuoFkA",
+      "titulo": "Su faceta más personal: José Manuel Restrepo revela cómo ayuda a salvar parejas en crisis",
+      "canal": "Acento Colombia",
+      "fecha": "hace 4 m"
+    },
+    {
       "id": "zCpRU38a64A",
       "titulo": "\"Lo oía llorar de la desesperación\": El quiebre de José Manuel Restrepo al recordar a su padre",
       "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "yAM23T4ut6Y",
+      "titulo": "Entrevista con el candidato a la vicepresidencia de ABELARDO DE LA ESPRIELLA. José Manuel Restrepo ",
+      "canal": "DANIEL MALDONADO",
       "fecha": "hace 5 m"
     },
     {
@@ -164,10 +164,22 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "yAM23T4ut6Y",
-      "titulo": "Entrevista con el candidato a la vicepresidencia de ABELARDO DE LA ESPRIELLA. José Manuel Restrepo ",
-      "canal": "DANIEL MALDONADO",
-      "fecha": "hace 5 m"
+      "id": "79XBRbrR8VY",
+      "titulo": "José Manuel Restrepo habló ante Donald Trump: seguridad y democracia, en el centro de su mensaje",
+      "canal": "NotiRed360",
+      "fecha": "hace 1 m"
+    },
+    {
+      "id": "yVY9_GRRWpc",
+      "titulo": "José Manuel Restrepo: perfil del nuevo vicepresidente de Colombia - Noticias Telemedellín",
+      "canal": "Noticias Telemedellín",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "fHC510Zq0NA",
+      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
+      "canal": "UNIMINUTO Radio",
+      "fecha": "Transmitido hace 7 m"
     },
     {
       "id": "4405ievMvcs",
@@ -198,12 +210,6 @@
       "titulo": "¿Por qué JOSE MANUEL RESTREPO y ABELARDO DE LA ESPRIELLA son el complemento perfecto?",
       "canal": "Vanessa De La Torre",
       "fecha": "hace 5 m"
-    },
-    {
-      "id": "rgTcTGWuXus",
-      "titulo": "José Manuel Restrepo, nuevo VICEPRESIDENTE de Colombia",
-      "canal": "RevistaSemana",
-      "fecha": "hace 4 m"
     },
     {
       "id": "cy38u-DHcfU",
@@ -354,12 +360,6 @@
       "titulo": "“No seré una llanta de repuesto ni tampoco me dedicaré a andar en helicóptero”: José Manuel Restrepo",
       "canal": "Nos Cogió La Noche Noticias",
       "fecha": "hace 5 m"
-    },
-    {
-      "id": "m4O3PPH63zk",
-      "titulo": "Vicepresidente José Manuel Restrepo anuncia la 'Milagro Week' en Nueva York",
-      "canal": "Acento Colombia",
-      "fecha": "hace 6 h"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T02:56:37.665Z",
+  "actualizado": "2026-11-11T10:40:46.233Z",
   "items": [
     {
       "titulo": "Vicepresidente Jose Manuel Restrepo respondió a quienes afirman que las becas con Colfuturo y el Ministerio de Ciencias son “para niños ricos”",
@@ -80,6 +80,15 @@
       "fecha": "2026-11-10T19:41:05.000Z",
       "fuente": "Minuto30",
       "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "cat": "Noticia"
+    },
+    {
+      "titulo": "Milagro Week: senador pide al Gobierno anunciar avances legislativos para atraer inversi&#243;n minera",
+      "url": "https://emisoraatlantico.com.co/politica/milagro-week-senador-pide-al-gobierno-anunciar-avances-legislativos-para-atraer-inversion-minera/",
+      "resumen": "A pocos d&#237;as de la Milagro Week, la estrategia del Gobierno nacional para promover la inversi&#243;n extranjera, el senador Camilo Torres Villalba plante&#243; la ...",
+      "fecha": "2026-11-10T18:57:00.000Z",
+      "fuente": "Emisora Atl&#225;ntico",
+      "img": "https://media.emisoraatlantico.com.co/2026/07/IMG-20260729-WA0029.jpg",
       "cat": "Noticia"
     },
     {
@@ -430,6 +439,15 @@
       "resumen": "Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
       "fecha": "2026-11-09T23:32:46.000Z",
       "fuente": "RED+ Noticias",
+      "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "cat": "Noticia"
+    },
+    {
+      "titulo": "Corrección: Ahora sí, la lista completa de los 132 proyectos de la Milagro Week",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2YwT3BjbEczM1F4U0lNajA2bmoxTkw0eF9Va2hpbC1ZS1o2dVlqUVQybFhKbHVWYnNJNTQ0bnVBU25hRDNEYTdsWFBBTmdlU3Y4REdFYk4wVkFhRFNBdEN6U3RhbzlIZW81RGNyTEN2Uzl3QlVGNExXSGtCenBQeXNYemZRMGtpeUx1UEN5SFlxRjRweEVETzJLNllpZWJfUVFYbThMVFNIY25NZ1VWY1RQaVdvc1pWRnhRSGhfZw?oc=5",
+      "resumen": "Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "fecha": "2026-11-09T22:32:56.000Z",
+      "fuente": "La Silla Vacía",
       "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "cat": "Noticia"
     },
@@ -2680,24 +2698,6 @@
       "resumen": "Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
       "fecha": "2026-10-28T20:20:12.000Z",
       "fuente": "CV Noticias",
-      "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "cat": "Noticia"
-    },
-    {
-      "titulo": "Vicepresidente José Manuel Restrepo encabezará anuncio de créditos del Icetex en Bucaramanga",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVlsdnZ4ZW5zeUpxVW9nSy16REUwTExKeGhmSWNnbHBGdlFGRkxtWXdGelhXTlJndVlQNG9QUFZTbjlmUVZPbFcxM0tQUTNNZzFJbW9oQVJSY1c4S1NuUWtZekNxTGtlSk1kX0NJeHpGSjRUbXE4eTBQNmV4YnJ5RTdoRUhnamdZV0ZWWA?oc=5",
-      "resumen": "Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
-      "fecha": "2026-10-28T20:13:39.000Z",
-      "fuente": "Metropolitano",
-      "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "cat": "Noticia"
-    },
-    {
-      "titulo": "'No quiso': Vicepresidente José Manuel Restrepo sorprende a Colombia con su reacción a inesperado pedido en pleno vuelo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzN4OS04aXhnWjg2ejE5V3ktMDFxNkhYZElqN1RWUktXQ3ZuWHNpakpwNnZVVFJCTEtmbzl0VGZTejNIaWZHTVpMRVE0TVBIZ1BmNjVtV0MyNkp0c0wtZWY3MDgzb3pwd2xlT3FkV2l2T2pGOWZuVXFNNGstSUV1VnJSdTdwVGdRbWZTSlVwZ1MyZW1FeV9JSUV5UHZBNjVUWmZjZno0Q1prdUwwZXRpR0VBTnRwbVNvbDJ1ak8yM2VDd29GWjRZR0gwT29aNnNOOGxJakhhbUpST2s?oc=5",
-      "resumen": "Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
-      "fecha": "2026-10-28T19:08:36.000Z",
-      "fuente": "redmas.com.co",
       "img": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "cat": "Noticia"
     }
