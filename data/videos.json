@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T23:16:49.090Z",
+  "actualizado": "2026-11-15T02:58:26.874Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -26,12 +26,6 @@
       "fecha": "Transmitido hace 2 días"
     },
     {
-      "id": "4405ievMvcs",
-      "titulo": "José Manuel Restrepo contó cómo fue que Abelardo De La Espriella le ofreció ser su Vicepresidente 🇨🇴",
-      "canal": "Joche Osorio",
-      "fecha": "hace 8 m"
-    },
-    {
       "id": "nZKoOGc288k",
       "titulo": "Vocería Vicepresidente de la República, José Manuel Restrepo",
       "canal": "Presidencia de la República - Colombia",
@@ -42,6 +36,12 @@
       "titulo": "De La Espriella presenta a José Manuel Restrepo, su vicepresidente, y lo compara con Marco Rubio",
       "canal": "DE LA ESPRIELLA STYLE",
       "fecha": "hace 8 m"
+    },
+    {
+      "id": "l1xMuxYj-fI",
+      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
+      "canal": "Canal Institucional",
+      "fecha": "Transmitido hace 2 sem."
     },
     {
       "id": "FykEGzC0ayA",
@@ -56,10 +56,10 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "YoFkdl1CYWc",
-      "titulo": "ANDICOM 2026 - Conferencia del Vicepresidente de la República de Colombia, Dr. José Manuel Restrepo",
-      "canal": "Congreso Empresarial y Tecnológico - ANDICOM",
-      "fecha": "Transmitido hace 2 m"
+      "id": "WSJnF8nWbok",
+      "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
+      "canal": "NTN24",
+      "fecha": "hace 3 m"
     },
     {
       "id": "gLQL8Mz0_Rc",
@@ -68,9 +68,9 @@
       "fecha": "hace 1 m"
     },
     {
-      "id": "WSJnF8nWbok",
-      "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
-      "canal": "NTN24",
+      "id": "d1DCZSeTqw0",
+      "titulo": "José Manuel Restrepo pasó por los micrófonos de #TenerLaRazónNoEsSuficiente.",
+      "canal": "Teleantioquia",
       "fecha": "hace 3 m"
     },
     {
@@ -78,6 +78,12 @@
       "titulo": "#EnVIVO: Entrevista vicepresidente electo José Manuel Restrepo | EL TIEMPO",
       "canal": "EL TIEMPO",
       "fecha": "Transmitido hace 4 m"
+    },
+    {
+      "id": "zkpUp5zBItM",
+      "titulo": "José Manuel Restrepo  nos cuenta su historia - #60AñosyContando",
+      "canal": "Universidad del Rosario",
+      "fecha": "hace 6 a"
     },
     {
       "id": "2kSCULlnw4Y",
@@ -92,34 +98,10 @@
       "fecha": "hace 6 m"
     },
     {
-      "id": "2fg7S0EDEL8",
-      "titulo": "¿Por qué JOSE MANUEL RESTREPO y ABELARDO DE LA ESPRIELLA son el complemento perfecto?",
+      "id": "GyQ3wFk6dMo",
+      "titulo": "¿Ni Trump, ni Bukele, ni Milei? JOSÉ MANUEL RESTREPO define el fenómeno ABELARDO DE LA ESPRIELLA",
       "canal": "Vanessa De La Torre",
       "fecha": "hace 5 m"
-    },
-    {
-      "id": "VnmeerLh1HQ",
-      "titulo": "Intervención del Vicepresidente de Colombia, José Manuel Restrepo, ante la ONU",
-      "canal": "Presidencia de la República - Colombia",
-      "fecha": "Transmitido hace 1 m"
-    },
-    {
-      "id": "QjxiQ4nodSY",
-      "titulo": "El Vice José Manuel Restrepo sobre el proyecto de ley que busca establecer el día de la biblia",
-      "canal": "StefyFA",
-      "fecha": "hace 2 sem."
-    },
-    {
-      "id": "sAbO5f9NoD0",
-      "titulo": "COLOMBIA \"ESTUVO A PUNTO DE PERDER LA DEMOCRACIA\": vicepresidente José Manuel Restrepo",
-      "canal": "NTN24",
-      "fecha": "hace 1 m"
-    },
-    {
-      "id": "giAB_MIrGhQ",
-      "titulo": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio",
-      "canal": "RED MÁS Noticias",
-      "fecha": "hace 3 m"
     },
     {
       "id": "PBxGzmsx2UU",
@@ -134,10 +116,16 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "6eHEZ3YcS8o",
-      "titulo": "Abelardo y José Manuel Restrepo muestran su química: chistes, política y confesiones en Noticias RCN",
-      "canal": "Noticias RCN",
-      "fecha": "hace 6 m"
+      "id": "JC2H3V5Wb0s",
+      "titulo": "¿Qué puede hacer? - Jose Manuel Restrepo Vp Abelardo de la Espriella Mar 11 #velezporlamanana",
+      "canal": "Luis Carlos Vélez",
+      "fecha": "hace 8 m"
+    },
+    {
+      "id": "hXei37qPNwg",
+      "titulo": "José Manuel Restrepo: las ideas del vicepresidente que acompañaría a Abelardo De La Espriella",
+      "canal": "Con Altura Podcast |  Sebastián Pérez ",
+      "fecha": "hace 8 m"
     },
     {
       "id": "9zDLXZDuXEk",
@@ -188,6 +176,54 @@
       "fecha": "hace 4 m"
     },
     {
+      "id": "4405ievMvcs",
+      "titulo": "José Manuel Restrepo contó cómo fue que Abelardo De La Espriella le ofreció ser su Vicepresidente 🇨🇴",
+      "canal": "Joche Osorio",
+      "fecha": "hace 8 m"
+    },
+    {
+      "id": "YoFkdl1CYWc",
+      "titulo": "ANDICOM 2026 - Conferencia del Vicepresidente de la República de Colombia, Dr. José Manuel Restrepo",
+      "canal": "Congreso Empresarial y Tecnológico - ANDICOM",
+      "fecha": "Transmitido hace 2 m"
+    },
+    {
+      "id": "2fg7S0EDEL8",
+      "titulo": "¿Por qué JOSE MANUEL RESTREPO y ABELARDO DE LA ESPRIELLA son el complemento perfecto?",
+      "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "VnmeerLh1HQ",
+      "titulo": "Intervención del Vicepresidente de Colombia, José Manuel Restrepo, ante la ONU",
+      "canal": "Presidencia de la República - Colombia",
+      "fecha": "Transmitido hace 1 m"
+    },
+    {
+      "id": "QjxiQ4nodSY",
+      "titulo": "El Vice José Manuel Restrepo sobre el proyecto de ley que busca establecer el día de la biblia",
+      "canal": "StefyFA",
+      "fecha": "hace 2 sem."
+    },
+    {
+      "id": "sAbO5f9NoD0",
+      "titulo": "COLOMBIA \"ESTUVO A PUNTO DE PERDER LA DEMOCRACIA\": vicepresidente José Manuel Restrepo",
+      "canal": "NTN24",
+      "fecha": "hace 1 m"
+    },
+    {
+      "id": "giAB_MIrGhQ",
+      "titulo": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio",
+      "canal": "RED MÁS Noticias",
+      "fecha": "hace 3 m"
+    },
+    {
+      "id": "6eHEZ3YcS8o",
+      "titulo": "Abelardo y José Manuel Restrepo muestran su química: chistes, política y confesiones en Noticias RCN",
+      "canal": "Noticias RCN",
+      "fecha": "hace 6 m"
+    },
+    {
       "id": "yAM23T4ut6Y",
       "titulo": "Entrevista con el candidato a la vicepresidencia de ABELARDO DE LA ESPRIELLA. José Manuel Restrepo ",
       "canal": "DANIEL MALDONADO",
@@ -198,12 +234,6 @@
       "titulo": "¡CAOS EN CARACOL! José Manuel Restrepo DESTRUYE Preguntas Sesgadas de Periodista Izquierdista",
       "canal": "Crisis y Poder",
       "fecha": "hace 5 m"
-    },
-    {
-      "id": "d1DCZSeTqw0",
-      "titulo": "José Manuel Restrepo pasó por los micrófonos de #TenerLaRazónNoEsSuficiente.",
-      "canal": "Teleantioquia",
-      "fecha": "hace 3 m"
     },
     {
       "id": "w9NLZv2-ke8",
@@ -218,28 +248,10 @@
       "fecha": "hace 4 m"
     },
     {
-      "id": "zkpUp5zBItM",
-      "titulo": "José Manuel Restrepo  nos cuenta su historia - #60AñosyContando",
-      "canal": "Universidad del Rosario",
-      "fecha": "hace 6 a"
-    },
-    {
-      "id": "JC2H3V5Wb0s",
-      "titulo": "¿Qué puede hacer? - Jose Manuel Restrepo Vp Abelardo de la Espriella Mar 11 #velezporlamanana",
-      "canal": "Luis Carlos Vélez",
-      "fecha": "hace 8 m"
-    },
-    {
       "id": "Gc6Xexr0Z_U",
       "titulo": "José Manuel Restrepo revela por qué aceptó ser fórmula de Abelardo de la Espriella",
       "canal": "Jhonny Romero - Tiempo de Calidad Podcast",
       "fecha": "hace 6 m"
-    },
-    {
-      "id": "hXei37qPNwg",
-      "titulo": "José Manuel Restrepo: las ideas del vicepresidente que acompañaría a Abelardo De La Espriella",
-      "canal": "Con Altura Podcast |  Sebastián Pérez ",
-      "fecha": "hace 8 m"
     },
     {
       "id": "ITyTqOGRR70",
@@ -258,12 +270,6 @@
       "titulo": "“Se hizo lo que se podía hacer”: exministro Restrepo sobre por qué no subió precio de ACPM",
       "canal": "Blu Radio",
       "fecha": "hace 2 a"
-    },
-    {
-      "id": "GyQ3wFk6dMo",
-      "titulo": "¿Ni Trump, ni Bukele, ni Milei? JOSÉ MANUEL RESTREPO define el fenómeno ABELARDO DE LA ESPRIELLA",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
     },
     {
       "id": "nbYtWeEI9Ic",
@@ -318,12 +324,6 @@
       "titulo": "Grave denuncia hace el vicepresidente (electo) Jose Manuel Restrepo #delaespriella  #petro",
       "canal": "Noticias Colombia 24x7 ",
       "fecha": "hace 4 m"
-    },
-    {
-      "id": "l1xMuxYj-fI",
-      "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
-      "canal": "Canal Institucional",
-      "fecha": "Transmitido hace 2 sem."
     },
     {
       "id": "PwzbqEvQVOg",
