@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T02:58:26.874Z",
+  "actualizado": "2026-11-15T10:40:51.577Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -32,16 +32,16 @@
       "fecha": "hace 1 día"
     },
     {
-      "id": "B9gJ4BFS9-E",
-      "titulo": "De La Espriella presenta a José Manuel Restrepo, su vicepresidente, y lo compara con Marco Rubio",
-      "canal": "DE LA ESPRIELLA STYLE",
-      "fecha": "hace 8 m"
-    },
-    {
       "id": "l1xMuxYj-fI",
       "titulo": "Declaración a medios del vicepresidente José Manuel Restrepo",
       "canal": "Canal Institucional",
       "fecha": "Transmitido hace 2 sem."
+    },
+    {
+      "id": "B9gJ4BFS9-E",
+      "titulo": "De La Espriella presenta a José Manuel Restrepo, su vicepresidente, y lo compara con Marco Rubio",
+      "canal": "DE LA ESPRIELLA STYLE",
+      "fecha": "hace 8 m"
     },
     {
       "id": "FykEGzC0ayA",
@@ -65,7 +65,7 @@
       "id": "gLQL8Mz0_Rc",
       "titulo": "Protagonistas de la Patria Milagro: José Manuel Restrepo, Vicepresidente de la República de Colombia",
       "canal": "Presidencia de la República - Colombia",
-      "fecha": "hace 1 m"
+      "fecha": "hace 2 m"
     },
     {
       "id": "d1DCZSeTqw0",
@@ -104,28 +104,22 @@
       "fecha": "hace 5 m"
     },
     {
-      "id": "PBxGzmsx2UU",
-      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
-      "canal": "El Primer Paso Podcast",
-      "fecha": "hace 3 m"
-    },
-    {
       "id": "OTZ30pGG40g",
       "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
       "canal": "LOS40 Colombia",
       "fecha": "hace 4 m"
     },
     {
-      "id": "JC2H3V5Wb0s",
-      "titulo": "¿Qué puede hacer? - Jose Manuel Restrepo Vp Abelardo de la Espriella Mar 11 #velezporlamanana",
-      "canal": "Luis Carlos Vélez",
-      "fecha": "hace 8 m"
-    },
-    {
       "id": "hXei37qPNwg",
       "titulo": "José Manuel Restrepo: las ideas del vicepresidente que acompañaría a Abelardo De La Espriella",
       "canal": "Con Altura Podcast |  Sebastián Pérez ",
       "fecha": "hace 8 m"
+    },
+    {
+      "id": "PBxGzmsx2UU",
+      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
+      "canal": "El Primer Paso Podcast",
+      "fecha": "hace 3 m"
     },
     {
       "id": "9zDLXZDuXEk",
@@ -152,15 +146,21 @@
       "fecha": "hace 7 m"
     },
     {
-      "id": "fHC510Zq0NA",
-      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
-      "canal": "UNIMINUTO Radio",
-      "fecha": "Transmitido hace 7 m"
+      "id": "SwsdVK8vY2w",
+      "titulo": "Entrevista con José Manuel Restrepo, fórmula vicepresidencial del candidato Abelardo De la Espriella",
+      "canal": "EL HERALDO",
+      "fecha": "hace 4 m"
     },
     {
       "id": "TZe66xuoFkA",
       "titulo": "Su faceta más personal: José Manuel Restrepo revela cómo ayuda a salvar parejas en crisis",
       "canal": "Acento Colombia",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "nbYtWeEI9Ic",
+      "titulo": "La otra faceta del vicepresidente: Restrepo revela cómo desde hace años ayuda a parejas en crisis",
+      "canal": "Blu Radio",
       "fecha": "hace 4 m"
     },
     {
@@ -170,10 +170,22 @@
       "fecha": "hace 5 m"
     },
     {
-      "id": "SwsdVK8vY2w",
-      "titulo": "Entrevista con José Manuel Restrepo, fórmula vicepresidencial del candidato Abelardo De la Espriella",
-      "canal": "EL HERALDO",
-      "fecha": "hace 4 m"
+      "id": "yAM23T4ut6Y",
+      "titulo": "Entrevista con el candidato a la vicepresidencia de ABELARDO DE LA ESPRIELLA. José Manuel Restrepo ",
+      "canal": "DANIEL MALDONADO",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "JC2H3V5Wb0s",
+      "titulo": "¿Qué puede hacer? - Jose Manuel Restrepo Vp Abelardo de la Espriella Mar 11 #velezporlamanana",
+      "canal": "Luis Carlos Vélez",
+      "fecha": "hace 8 m"
+    },
+    {
+      "id": "fHC510Zq0NA",
+      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
+      "canal": "UNIMINUTO Radio",
+      "fecha": "Transmitido hace 7 m"
     },
     {
       "id": "4405ievMvcs",
@@ -224,12 +236,6 @@
       "fecha": "hace 6 m"
     },
     {
-      "id": "yAM23T4ut6Y",
-      "titulo": "Entrevista con el candidato a la vicepresidencia de ABELARDO DE LA ESPRIELLA. José Manuel Restrepo ",
-      "canal": "DANIEL MALDONADO",
-      "fecha": "hace 5 m"
-    },
-    {
       "id": "CPKq0anOwn0",
       "titulo": "¡CAOS EN CARACOL! José Manuel Restrepo DESTRUYE Preguntas Sesgadas de Periodista Izquierdista",
       "canal": "Crisis y Poder",
@@ -270,12 +276,6 @@
       "titulo": "“Se hizo lo que se podía hacer”: exministro Restrepo sobre por qué no subió precio de ACPM",
       "canal": "Blu Radio",
       "fecha": "hace 2 a"
-    },
-    {
-      "id": "nbYtWeEI9Ic",
-      "titulo": "La otra faceta del vicepresidente: Restrepo revela cómo desde hace años ayuda a parejas en crisis",
-      "canal": "Blu Radio",
-      "fecha": "hace 4 m"
     },
     {
       "id": "rgTcTGWuXus",
