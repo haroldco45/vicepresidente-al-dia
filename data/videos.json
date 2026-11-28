@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-28T02:32:44.973Z",
+  "actualizado": "2026-11-28T11:30:06.463Z",
   "items": [
+    {
+      "id": "aXe1qNnuAdk",
+      "titulo": "Abelardo bromea con Restrepo: ¡el vicepresidente ya no usa medias en el Caribe!",
+      "canal": "Canta Vallenato",
+      "fecha": "hace 6 h"
+    },
     {
       "id": "8jX-zFfEdJw",
       "titulo": "Declaración Vicepresidente, José Manuel Restrepo, posterior a la Radicación de la Ley de Rescate...",
       "canal": "Presidencia de la República - Colombia",
       "fecha": "hace 4 sem."
+    },
+    {
+      "id": "giAB_MIrGhQ",
+      "titulo": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio",
+      "canal": "RED MÁS Noticias",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "wgYDkvLKXYI",
+      "titulo": "Habla el vicepresidente José Manuel Restrepo desde el Congreso Nacional de la Infraestructura",
+      "canal": "EL TIEMPO",
+      "fecha": "Transmitido hace 19 h"
     },
     {
       "id": "HppmQJbtJfc",
@@ -20,34 +38,10 @@
       "fecha": "hace 2 m"
     },
     {
-      "id": "wgYDkvLKXYI",
-      "titulo": "Habla el vicepresidente José Manuel Restrepo desde el Congreso Nacional de la Infraestructura",
-      "canal": "EL TIEMPO",
-      "fecha": "Transmitido hace 10 h"
-    },
-    {
       "id": "GhWAFZVyWmQ",
       "titulo": "'Soy el vicepresidente del ‘tigre’: así le ha ido a Restrepo en la ONU | EL TIEMPO",
       "canal": "EL TIEMPO",
       "fecha": "hace 2 m"
-    },
-    {
-      "id": "jEFTmhCcNlU",
-      "titulo": "El vicepresidente JOSÉ MANUEL RESTREPO habla de la Milagro Week | El Debate",
-      "canal": "RevistaSemana",
-      "fecha": "Transmitido hace 2 sem."
-    },
-    {
-      "id": "B9gJ4BFS9-E",
-      "titulo": "De La Espriella presenta a José Manuel Restrepo, su vicepresidente, y lo compara con Marco Rubio",
-      "canal": "Abelardo De La Espriella",
-      "fecha": "hace 8 m"
-    },
-    {
-      "id": "OOxTGXb5u7c",
-      "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
-      "canal": "LA TOBÓN SHOW",
-      "fecha": "hace 5 m"
     },
     {
       "id": "FykEGzC0ayA",
@@ -56,10 +50,34 @@
       "fecha": "hace 6 m"
     },
     {
+      "id": "jEFTmhCcNlU",
+      "titulo": "El vicepresidente JOSÉ MANUEL RESTREPO habla de la Milagro Week | El Debate",
+      "canal": "RevistaSemana",
+      "fecha": "Transmitido hace 2 sem."
+    },
+    {
+      "id": "cWZAtg0-sOk",
+      "titulo": "José Manuel Restrepo habla de las inversiones de Milagro Week en EE. UU.: \"Buenas noticias\"",
+      "canal": "Noticias Caracol",
+      "fecha": "hace 9 días"
+    },
+    {
+      "id": "B9gJ4BFS9-E",
+      "titulo": "De La Espriella presenta a José Manuel Restrepo, su vicepresidente, y lo compara con Marco Rubio",
+      "canal": "Abelardo De La Espriella",
+      "fecha": "hace 8 m"
+    },
+    {
       "id": "WSJnF8nWbok",
       "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
       "canal": "NTN24",
       "fecha": "hace 4 m"
+    },
+    {
+      "id": "OOxTGXb5u7c",
+      "titulo": "Esta vicepresidencia la aceptamos juntos, con mi señora e hijos -José Manuel Restrepo ",
+      "canal": "LA TOBÓN SHOW",
+      "fecha": "hace 5 m"
     },
     {
       "id": "fHC510Zq0NA",
@@ -68,9 +86,45 @@
       "fecha": "Transmitido hace 8 m"
     },
     {
-      "id": "Gc6Xexr0Z_U",
-      "titulo": "José Manuel Restrepo revela por qué aceptó ser fórmula de Abelardo de la Espriella",
-      "canal": "Jhonny Romero - Tiempo de Calidad Podcast",
+      "id": "gLQL8Mz0_Rc",
+      "titulo": "Protagonistas de la Patria Milagro: José Manuel Restrepo, Vicepresidente de la República de Colombia",
+      "canal": "Presidencia de la República - Colombia",
+      "fecha": "hace 2 m"
+    },
+    {
+      "id": "BIl3Dq6_xmE",
+      "titulo": "#EnVIVO: Entrevista vicepresidente electo José Manuel Restrepo | EL TIEMPO",
+      "canal": "EL TIEMPO",
+      "fecha": "Transmitido hace 4 m"
+    },
+    {
+      "id": "rgTcTGWuXus",
+      "titulo": "José Manuel Restrepo, nuevo VICEPRESIDENTE de Colombia",
+      "canal": "RevistaSemana",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "PBxGzmsx2UU",
+      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
+      "canal": "El Primer Paso Podcast",
+      "fecha": "hace 3 m"
+    },
+    {
+      "id": "OTZ30pGG40g",
+      "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
+      "canal": "LOS40 Colombia",
+      "fecha": "hace 5 m"
+    },
+    {
+      "id": "B-DEdyBvGjI",
+      "titulo": "José Manuel Restrepo | Desnúdate con Eva",
+      "canal": "Desnúdate con Eva",
+      "fecha": "hace 2 a"
+    },
+    {
+      "id": "BnLsYCfQqEw",
+      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
+      "canal": "Vanessa De La Torre",
       "fecha": "hace 6 m"
     },
     {
@@ -80,10 +134,28 @@
       "fecha": "hace 5 m"
     },
     {
-      "id": "BIl3Dq6_xmE",
-      "titulo": "#EnVIVO: Entrevista vicepresidente electo José Manuel Restrepo | EL TIEMPO",
-      "canal": "EL TIEMPO",
-      "fecha": "Transmitido hace 4 m"
+      "id": "TZe66xuoFkA",
+      "titulo": "Su faceta más personal: José Manuel Restrepo revela cómo ayuda a salvar parejas en crisis",
+      "canal": "Acento Colombia",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "79XBRbrR8VY",
+      "titulo": "José Manuel Restrepo habló ante Donald Trump: seguridad y democracia, en el centro de su mensaje",
+      "canal": "NotiRed360",
+      "fecha": "hace 2 m"
+    },
+    {
+      "id": "JV62LygsDds",
+      "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
+      "canal": "Desnúdate con Eva",
+      "fecha": "hace 7 m"
+    },
+    {
+      "id": "Gc6Xexr0Z_U",
+      "titulo": "José Manuel Restrepo revela por qué aceptó ser fórmula de Abelardo de la Espriella",
+      "canal": "Jhonny Romero - Tiempo de Calidad Podcast",
+      "fecha": "hace 6 m"
     },
     {
       "id": "w9NLZv2-ke8",
@@ -104,52 +176,10 @@
       "fecha": "hace 3 m"
     },
     {
-      "id": "OTZ30pGG40g",
-      "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
-      "canal": "LOS40 Colombia",
-      "fecha": "hace 5 m"
-    },
-    {
-      "id": "PBxGzmsx2UU",
-      "titulo": "Así fue como Abelardo De La Espriella invitó a José Manuel Restrepo #Shorts",
-      "canal": "El Primer Paso Podcast",
-      "fecha": "hace 3 m"
-    },
-    {
-      "id": "B-DEdyBvGjI",
-      "titulo": "José Manuel Restrepo | Desnúdate con Eva",
-      "canal": "Desnúdate con Eva",
-      "fecha": "hace 2 a"
-    },
-    {
-      "id": "BnLsYCfQqEw",
-      "titulo": "José Manuel Restrepo cree en Dios, el diablo, el cielo y el infierno: esto dijo",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 6 m"
-    },
-    {
       "id": "SwsdVK8vY2w",
       "titulo": "Entrevista con José Manuel Restrepo, fórmula vicepresidencial del candidato Abelardo De la Espriella",
       "canal": "EL HERALDO",
       "fecha": "hace 5 m"
-    },
-    {
-      "id": "TZe66xuoFkA",
-      "titulo": "Su faceta más personal: José Manuel Restrepo revela cómo ayuda a salvar parejas en crisis",
-      "canal": "Acento Colombia",
-      "fecha": "hace 4 m"
-    },
-    {
-      "id": "79XBRbrR8VY",
-      "titulo": "José Manuel Restrepo habló ante Donald Trump: seguridad y democracia, en el centro de su mensaje",
-      "canal": "NotiRed360",
-      "fecha": "hace 2 m"
-    },
-    {
-      "id": "JV62LygsDds",
-      "titulo": "Abelardo de la Espriella y José Manuel Restrepo| Desnúdate con Eva Rey",
-      "canal": "Desnúdate con Eva",
-      "fecha": "hace 7 m"
     },
     {
       "id": "nbYtWeEI9Ic",
@@ -182,12 +212,6 @@
       "fecha": "hace 2 sem."
     },
     {
-      "id": "cWZAtg0-sOk",
-      "titulo": "José Manuel Restrepo habla de las inversiones de Milagro Week en EE. UU.: \"Buenas noticias\"",
-      "canal": "Noticias Caracol",
-      "fecha": "hace 8 días"
-    },
-    {
       "id": "4405ievMvcs",
       "titulo": "José Manuel Restrepo contó cómo fue que Abelardo De La Espriella le ofreció ser su Vicepresidente 🇨🇴",
       "canal": "Joche Osorio",
@@ -210,12 +234,6 @@
       "titulo": "El vicepresidente da consejería a las parejas. José Manuel Restrepo",
       "canal": "La Opinión Cúcuta",
       "fecha": "hace 4 m"
-    },
-    {
-      "id": "gLQL8Mz0_Rc",
-      "titulo": "Protagonistas de la Patria Milagro: José Manuel Restrepo, Vicepresidente de la República de Colombia",
-      "canal": "Presidencia de la República - Colombia",
-      "fecha": "hace 2 m"
     },
     {
       "id": "Z-QYgZkn06k",
@@ -245,12 +263,6 @@
       "id": "y_moTsUyl5w",
       "titulo": "Colombia's VP-elect José Manuel Restrepo lays out a new vision for US-Colombia trade and investment",
       "canal": "AtlanticCouncil",
-      "fecha": "hace 4 m"
-    },
-    {
-      "id": "giAB_MIrGhQ",
-      "titulo": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio",
-      "canal": "RED MÁS Noticias",
       "fecha": "hace 4 m"
     },
     {
@@ -326,12 +338,6 @@
       "fecha": "Transmitido hace 2 m"
     },
     {
-      "id": "rgTcTGWuXus",
-      "titulo": "José Manuel Restrepo, nuevo VICEPRESIDENTE de Colombia",
-      "canal": "RevistaSemana",
-      "fecha": "hace 5 m"
-    },
-    {
       "id": "zYQqANfYl10",
       "titulo": "José Manuel Restrepo, ¿vuelve a la política? I Tener la razón no es suficiente I Teleantioquia",
       "canal": "Teleantioquia",
@@ -354,12 +360,6 @@
       "titulo": "José Manuel Restrepo  nos cuenta su historia - #60AñosyContando",
       "canal": "Universidad del Rosario",
       "fecha": "hace 6 a"
-    },
-    {
-      "id": "IWFHQr2WUNk",
-      "titulo": "José Manuel Restrepo quebró el país y quiso hacerle trampa a la ley de garantías",
-      "canal": "Ariel Fernando Avila Martinez",
-      "fecha": "hace 5 m"
     }
   ]
 }
