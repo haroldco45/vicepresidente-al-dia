@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T19:50:56.977Z",
+  "actualizado": "2026-11-28T02:32:44.973Z",
   "items": [
     {
       "id": "8jX-zFfEdJw",
@@ -8,22 +8,22 @@
       "fecha": "hace 4 sem."
     },
     {
-      "id": "sAbO5f9NoD0",
-      "titulo": "COLOMBIA \"ESTUVO A PUNTO DE PERDER LA DEMOCRACIA\": vicepresidente José Manuel Restrepo",
-      "canal": "NTN24",
-      "fecha": "hace 2 m"
-    },
-    {
       "id": "HppmQJbtJfc",
       "titulo": "“Este es el vicepresidente de ‘El Tigre’”: así se presenta José Manuel Restrepo ante Donald Trump",
       "canal": "RED MÁS Noticias",
       "fecha": "hace 2 m"
     },
     {
+      "id": "sAbO5f9NoD0",
+      "titulo": "COLOMBIA \"ESTUVO A PUNTO DE PERDER LA DEMOCRACIA\": vicepresidente José Manuel Restrepo",
+      "canal": "NTN24",
+      "fecha": "hace 2 m"
+    },
+    {
       "id": "wgYDkvLKXYI",
       "titulo": "Habla el vicepresidente José Manuel Restrepo desde el Congreso Nacional de la Infraestructura",
       "canal": "EL TIEMPO",
-      "fecha": "Transmitido hace 4 h"
+      "fecha": "Transmitido hace 10 h"
     },
     {
       "id": "GhWAFZVyWmQ",
@@ -56,34 +56,28 @@
       "fecha": "hace 6 m"
     },
     {
-      "id": "fHC510Zq0NA",
-      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
-      "canal": "UNIMINUTO Radio",
-      "fecha": "Transmitido hace 8 m"
-    },
-    {
-      "id": "zCpRU38a64A",
-      "titulo": "\"Lo oía llorar de la desesperación\": El quiebre de José Manuel Restrepo al recordar a su padre",
-      "canal": "Vanessa De La Torre",
-      "fecha": "hace 5 m"
-    },
-    {
-      "id": "-3muu_yfONM",
-      "titulo": "José Manuel Restrepo evalúa los primeros 100 días de Abelardo de la Espriella: “Ha sido implacable”",
-      "canal": "LA FM Colombia",
-      "fecha": "hace 12 días"
-    },
-    {
       "id": "WSJnF8nWbok",
       "titulo": "Crucial encuentro entre el vicepresidente electo colombiano, José Manuel Restrepo y Marco Rubio",
       "canal": "NTN24",
       "fecha": "hace 4 m"
     },
     {
-      "id": "YoFkdl1CYWc",
-      "titulo": "ANDICOM 2026 - Conferencia del Vicepresidente de la República de Colombia, Dr. José Manuel Restrepo",
-      "canal": "Congreso Empresarial y Tecnológico - ANDICOM",
-      "fecha": "Transmitido hace 2 m"
+      "id": "fHC510Zq0NA",
+      "titulo": "José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella en UNIMINUTO Radio",
+      "canal": "UNIMINUTO Radio",
+      "fecha": "Transmitido hace 8 m"
+    },
+    {
+      "id": "Gc6Xexr0Z_U",
+      "titulo": "José Manuel Restrepo revela por qué aceptó ser fórmula de Abelardo de la Espriella",
+      "canal": "Jhonny Romero - Tiempo de Calidad Podcast",
+      "fecha": "hace 6 m"
+    },
+    {
+      "id": "zCpRU38a64A",
+      "titulo": "\"Lo oía llorar de la desesperación\": El quiebre de José Manuel Restrepo al recordar a su padre",
+      "canal": "Vanessa De La Torre",
+      "fecha": "hace 5 m"
     },
     {
       "id": "BIl3Dq6_xmE",
@@ -104,16 +98,16 @@
       "fecha": "hace 3 m"
     },
     {
-      "id": "WroaEpbr01s",
-      "titulo": "“Se hizo lo que se podía hacer”: exministro Restrepo sobre por qué no subió precio de ACPM",
-      "canal": "Blu Radio",
-      "fecha": "hace 2 a"
+      "id": "uGSqKiF82Kk",
+      "titulo": "Vicepresidente frena en seco a De la Espriella en pleno reporte",
+      "canal": "Ciudad y Región Noticias",
+      "fecha": "hace 3 m"
     },
     {
-      "id": "nZKoOGc288k",
-      "titulo": "Vocería Vicepresidente de la República, José Manuel Restrepo",
-      "canal": "Presidencia de la República - Colombia",
-      "fecha": "hace 2 sem."
+      "id": "OTZ30pGG40g",
+      "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
+      "canal": "LOS40 Colombia",
+      "fecha": "hace 5 m"
     },
     {
       "id": "PBxGzmsx2UU",
@@ -158,6 +152,36 @@
       "fecha": "hace 7 m"
     },
     {
+      "id": "nbYtWeEI9Ic",
+      "titulo": "La otra faceta del vicepresidente: Restrepo revela cómo desde hace años ayuda a parejas en crisis",
+      "canal": "Blu Radio",
+      "fecha": "hace 4 m"
+    },
+    {
+      "id": "-3muu_yfONM",
+      "titulo": "José Manuel Restrepo evalúa los primeros 100 días de Abelardo de la Espriella: “Ha sido implacable”",
+      "canal": "LA FM Colombia",
+      "fecha": "hace 12 días"
+    },
+    {
+      "id": "YoFkdl1CYWc",
+      "titulo": "ANDICOM 2026 - Conferencia del Vicepresidente de la República de Colombia, Dr. José Manuel Restrepo",
+      "canal": "Congreso Empresarial y Tecnológico - ANDICOM",
+      "fecha": "Transmitido hace 2 m"
+    },
+    {
+      "id": "WroaEpbr01s",
+      "titulo": "“Se hizo lo que se podía hacer”: exministro Restrepo sobre por qué no subió precio de ACPM",
+      "canal": "Blu Radio",
+      "fecha": "hace 2 a"
+    },
+    {
+      "id": "nZKoOGc288k",
+      "titulo": "Vocería Vicepresidente de la República, José Manuel Restrepo",
+      "canal": "Presidencia de la República - Colombia",
+      "fecha": "hace 2 sem."
+    },
+    {
       "id": "cWZAtg0-sOk",
       "titulo": "José Manuel Restrepo habla de las inversiones de Milagro Week en EE. UU.: \"Buenas noticias\"",
       "canal": "Noticias Caracol",
@@ -168,12 +192,6 @@
       "titulo": "José Manuel Restrepo contó cómo fue que Abelardo De La Espriella le ofreció ser su Vicepresidente 🇨🇴",
       "canal": "Joche Osorio",
       "fecha": "hace 8 m"
-    },
-    {
-      "id": "Gc6Xexr0Z_U",
-      "titulo": "José Manuel Restrepo revela por qué aceptó ser fórmula de Abelardo de la Espriella",
-      "canal": "Jhonny Romero - Tiempo de Calidad Podcast",
-      "fecha": "hace 6 m"
     },
     {
       "id": "MjJJeFNPHNg",
@@ -198,12 +216,6 @@
       "titulo": "Protagonistas de la Patria Milagro: José Manuel Restrepo, Vicepresidente de la República de Colombia",
       "canal": "Presidencia de la República - Colombia",
       "fecha": "hace 2 m"
-    },
-    {
-      "id": "OTZ30pGG40g",
-      "titulo": "Preguntas rápidas con José Manuel Restrepo, candidato a la vicepresidencia #soyimpresentable",
-      "canal": "LOS40 Colombia",
-      "fecha": "hace 5 m"
     },
     {
       "id": "Z-QYgZkn06k",
@@ -270,12 +282,6 @@
       "titulo": "\"Vamos a recibir un país destrozado\": José Manuel Restrepo expone la crisis de Colombia",
       "canal": "El Primer Paso Podcast",
       "fecha": "hace 5 m"
-    },
-    {
-      "id": "nbYtWeEI9Ic",
-      "titulo": "La otra faceta del vicepresidente: Restrepo revela cómo desde hace años ayuda a parejas en crisis",
-      "canal": "Blu Radio",
-      "fecha": "hace 4 m"
     },
     {
       "id": "QjxiQ4nodSY",
@@ -348,12 +354,6 @@
       "titulo": "José Manuel Restrepo  nos cuenta su historia - #60AñosyContando",
       "canal": "Universidad del Rosario",
       "fecha": "hace 6 a"
-    },
-    {
-      "id": "uGSqKiF82Kk",
-      "titulo": "Vicepresidente frena en seco a De la Espriella en pleno reporte",
-      "canal": "Ciudad y Región Noticias",
-      "fecha": "hace 3 m"
     },
     {
       "id": "IWFHQr2WUNk",
